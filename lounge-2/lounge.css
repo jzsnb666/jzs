@@ -12,7 +12,11 @@ h1{
 h2{
   font-size:130%;
 }
-.u{
+#u{
+  line-height:         1.9em;
+  font-style:          italic;
+  font-family:         Georgia, "Times New Roman", Times, serif;
+  color:               #444444;
   border-color:white;
   border-width:1px;
   border-style:dashed;
