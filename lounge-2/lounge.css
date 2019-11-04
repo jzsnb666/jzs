@@ -29,3 +29,26 @@ h2{
   background-repeat: no-repeat;
   background-position: top left;
 }
+.hyx{
+  border-width:thin;
+  border-style:solid;
+  border-color:#007e7e;
+  width:200px;
+  padding-right:20px;
+  padding-bottom:20px;
+  padding-left:20px;
+  margin-left:20px;
+  text-align: center;
+  background-image: url(images/cocktail.gif);
+  background-repeat: no-repeat;
+  line-height: 1em;
+}
+div h2{
+  color:black;
+}
+.hyx h2{
+  color:black;
+}
+.hyx h3{
+  color:#d12c47;
+}
